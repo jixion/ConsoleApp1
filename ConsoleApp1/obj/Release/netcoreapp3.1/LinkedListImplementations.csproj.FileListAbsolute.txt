@@ -1,0 +1,14 @@
+C:\Users\jburr\source\repos\ConsoleApp1\ConsoleApp1\bin\Release\netcoreapp3.1\LinkedListImplementations.exe
+C:\Users\jburr\source\repos\ConsoleApp1\ConsoleApp1\bin\Release\netcoreapp3.1\LinkedListImplementations.deps.json
+C:\Users\jburr\source\repos\ConsoleApp1\ConsoleApp1\bin\Release\netcoreapp3.1\LinkedListImplementations.runtimeconfig.json
+C:\Users\jburr\source\repos\ConsoleApp1\ConsoleApp1\bin\Release\netcoreapp3.1\LinkedListImplementations.runtimeconfig.dev.json
+C:\Users\jburr\source\repos\ConsoleApp1\ConsoleApp1\bin\Release\netcoreapp3.1\LinkedListImplementations.dll
+C:\Users\jburr\source\repos\ConsoleApp1\ConsoleApp1\bin\Release\netcoreapp3.1\LinkedListImplementations.pdb
+C:\Users\jburr\source\repos\ConsoleApp1\ConsoleApp1\obj\Release\netcoreapp3.1\LinkedListImplementations.csproj.AssemblyReference.cache
+C:\Users\jburr\source\repos\ConsoleApp1\ConsoleApp1\obj\Release\netcoreapp3.1\LinkedListImplementations.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jburr\source\repos\ConsoleApp1\ConsoleApp1\obj\Release\netcoreapp3.1\LinkedListImplementations.AssemblyInfoInputs.cache
+C:\Users\jburr\source\repos\ConsoleApp1\ConsoleApp1\obj\Release\netcoreapp3.1\LinkedListImplementations.AssemblyInfo.cs
+C:\Users\jburr\source\repos\ConsoleApp1\ConsoleApp1\obj\Release\netcoreapp3.1\LinkedListImplementations.csproj.CoreCompileInputs.cache
+C:\Users\jburr\source\repos\ConsoleApp1\ConsoleApp1\obj\Release\netcoreapp3.1\LinkedListImplementations.dll
+C:\Users\jburr\source\repos\ConsoleApp1\ConsoleApp1\obj\Release\netcoreapp3.1\LinkedListImplementations.pdb
+C:\Users\jburr\source\repos\ConsoleApp1\ConsoleApp1\obj\Release\netcoreapp3.1\LinkedListImplementations.genruntimeconfig.cache

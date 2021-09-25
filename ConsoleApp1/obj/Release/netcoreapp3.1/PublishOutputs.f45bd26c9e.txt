@@ -1,0 +1,5 @@
+C:\Users\jburr\VSExes\LinkedListImplementations.exe
+C:\Users\jburr\VSExes\LinkedListImplementations.dll
+C:\Users\jburr\VSExes\LinkedListImplementations.deps.json
+C:\Users\jburr\VSExes\LinkedListImplementations.runtimeconfig.json
+C:\Users\jburr\VSExes\LinkedListImplementations.pdb
